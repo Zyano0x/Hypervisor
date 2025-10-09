@@ -158,4 +158,5 @@
 93. [The definitive guide to the Xen Hypervisor](https://theswissbay.ch/pdf/Books/Computer%20science/The%20Definitive%20Guide%20to%20the%20Xen%20Hypervisor%20-%20David%20Chisnall.pdf)
 94. [VMM Monitor](https://github.com/hyperlight-dev/hyperlight)
 95. [Hypervisor in 1000 lines of code](https://1000hv.seiya.me/en/)
+96. [Virtualbox Vulnerability Research Experience](https://faith2dxy.xyz/2025-10-07/virtualbox-hacking-experience/)
 
