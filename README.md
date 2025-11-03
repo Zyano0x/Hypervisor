@@ -159,4 +159,5 @@
 94. [VMM Monitor](https://github.com/hyperlight-dev/hyperlight)
 95. [Hypervisor in 1000 lines of code](https://1000hv.seiya.me/en/)
 96. [Virtualbox Vulnerability Research Experience](https://faith2dxy.xyz/2025-10-07/virtualbox-hacking-experience/)
+97. [Recon 2025 - HyperVinject Making Virtual Machine Code Injections as Simple as Process Injections](https://www.youtube.com/watch?v=hpmRQZ6T7YM)
 
